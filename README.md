@@ -1,5 +1,5 @@
 # hello-world
 just another repository
 
-hello guys
+hello guys,
 A computer is a programmable machine.
